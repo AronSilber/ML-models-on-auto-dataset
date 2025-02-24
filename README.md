@@ -1,2 +1,2 @@
-# ML-models-on-auto-dataset
-The second homework in my "Math for Data Science" course
+I performed exploratory data analysis on the "Auto" and "Boston" data sets. 
+I then modeled the data using LDA, QDA, Naive Bayes, Logistic Regression, and KNN
